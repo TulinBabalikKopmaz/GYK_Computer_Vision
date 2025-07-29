@@ -1,0 +1,19 @@
+📊 Classification Report:......................................1
+              precision    recall  f1-score   support
+
+   With Mask       0.99      0.99      0.99       745
+Without Mask       0.99      0.99      0.99       766
+
+    accuracy                           0.99      1511
+   macro avg       0.99      0.99      0.99      1511
+weighted avg       0.99      0.99      0.99      1511
+
+📊 Classification Report:.......................................2
+              precision    recall  f1-score   support
+
+   With Mask       0.99      0.99      0.99       745
+Without Mask       0.99      0.99      0.99       766
+
+    accuracy                           0.99      1511
+   macro avg       0.99      0.99      0.99      1511
+weighted avg       0.99      0.99      0.99      1511
